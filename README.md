@@ -1,7 +1,7 @@
 # Hello everybody. :grinning:
 ## Welcome to my profile.
 
-## 💫 About Me:
+## About Me:
 I am Elisabeth. I live in the south of Hamburg and am currently taking part in a web development bootcamp. I'm looking forward to working as a front-end developer soon.
 
 What I like to do when I'm not programming:
