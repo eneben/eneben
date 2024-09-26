@@ -1,17 +1,18 @@
 # Hello everybody. :grinning:
 ## Welcome to my profile.
 
-## 💫 About Me:
+## :point_right: About Me:
 I am Elisabeth. I live in the south of Hamburg and am currently taking part in a web development bootcamp. I'm looking forward to working as a front-end developer soon.
 
 What I like to do when I'm not programming:
 - :bike: being outside, e.g. on bike tours
 - :seedling: discuss social and political issues
+- :bulb: learn new things
 - :coffee: drink coffee
 
 I look forward to getting to know you and getting started together! :rocket:
 
-## 🌐 Socials:
+## :envelope: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elisabeth-neben) 
 
 ## 💻 Tech Stack:
