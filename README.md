@@ -1,7 +1,7 @@
-# Hi, I'm Elisabeth. :wave:
+# Hi, I'm Elisabeth. :blush:
 
-I live in the south of Hamburg and I'm currently retraining in IT with a focus on data and process analysis. :blush:
-My background includes web development, IT support, project work and process improvement. 
+I live in the south of Hamburg and I'm currently retraining in IT with a focus on data and process analysis.   <br>
+My background includes web development, IT support, project work and process improvement.  <br>
 :point_right: I'm especially interested in the intersection of IT, data, processes and organisation.
 
 Outside of tech, I enjoy:
