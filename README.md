@@ -1,14 +1,18 @@
-# Hello everybody. :grinning:
+# Hi, I'm Elisabeth. :wave:
 
-:point_right: I am Elisabeth. I live in the south of Hamburg and recently completed a web development bootcamp. I'm looking forward to working as a front-end developer soon.
+I live in the south of Hamburg and I'm currently retraining in IT with a focus on data and process analysis. :blush:
+My background includes web development, IT support, project work and process improvement. 
+:point_right: I'm especially interested in the intersection of IT, data, processes and organisation.
 
-What I like to do when I'm not programming:
-- :bike: being outside, e.g. on bike tours
-- :seedling: discuss social and political issues
-- :bulb: learn new things
-- :coffee: drink coffee
+Outside of tech, I enjoy:
+- 🚲 being outside, e.g. on bike tours
+- 🌱 volunteering and social engagement
+- 💡 learning new things
+- 👨‍👩‍👧‍👦 spending time with my family
+- ☕ drinking coffee
 
-I look forward to getting to know you and getting started together! :rocket:
+I look forward to getting to know you and learning new things together! :rocket:
+
 
 ## :envelope: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elisabeth-neben) 
