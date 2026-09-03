@@ -2,7 +2,7 @@
 
 I live in the south of Hamburg and I'm currently retraining in IT with a focus on data and process analysis.   <br>
 My background includes web development, IT support, project work and process improvement.  <br>
-:point_right: I'm especially interested in the intersection of IT, data, processes and organisation.
+:point_right: I'm especially interested in the intersection of IT, data, processes and organisation, particularly when technology can contribute to something meaningful.
 
 Outside of tech, I enjoy:
 - 🚲 being outside, e.g. on bike tours
