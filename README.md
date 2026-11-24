@@ -8,7 +8,7 @@ Outside of tech, I enjoy:
 - 🚲 being outside, e.g. on bike tours
 - 🌱 volunteering and social engagement
 - 💡 learning new things
-- 👨‍👩‍👧‍👦 spending time with my family
+- :heart: spending time with my family
 - ☕ drinking coffee
 
 I look forward to getting to know you and learning new things together! :rocket:
